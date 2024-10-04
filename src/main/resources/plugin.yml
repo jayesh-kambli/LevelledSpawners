@@ -1,0 +1,15 @@
+name: sigma
+version: '${project.version}'
+main: org.first.jayesh.Sigma
+api-version: '1.20'
+depend: [Vault]
+
+
+commands:
+  ccheck:
+  cstat:
+  crestore:
+  ccgui:
+  RestoreAllSpawnerData:
+  SeeAllSpawnerData:
+  leveledSpawner:
